@@ -1,0 +1,15 @@
+/Users/aanishassan/Projects/advanced/bin/Debug/net7.0/advanced
+/Users/aanishassan/Projects/advanced/bin/Debug/net7.0/advanced.deps.json
+/Users/aanishassan/Projects/advanced/bin/Debug/net7.0/advanced.runtimeconfig.json
+/Users/aanishassan/Projects/advanced/bin/Debug/net7.0/advanced.dll
+/Users/aanishassan/Projects/advanced/bin/Debug/net7.0/advanced.pdb
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/advanced.csproj.AssemblyReference.cache
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/advanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/advanced.AssemblyInfoInputs.cache
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/advanced.AssemblyInfo.cs
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/advanced.csproj.CoreCompileInputs.cache
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/advanced.dll
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/refint/advanced.dll
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/advanced.pdb
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/advanced.genruntimeconfig.cache
+/Users/aanishassan/Projects/advanced/obj/Debug/net7.0/ref/advanced.dll
